@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "883248527601",
+    "project_id": "coletor-de-codigos",
+    "storage_bucket": "coletor-de-codigos.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883248527601:android:b5f85c99baddb3b470d150",
+        "android_client_info": {
+          "package_name": "com.ra2444338.indicadores"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzt_TTDXlYielpUslPFePRSUicE1RLTAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
